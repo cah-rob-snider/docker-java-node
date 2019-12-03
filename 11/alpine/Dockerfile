@@ -8,4 +8,5 @@ RUN apk add --repository http://dl-cdn.alpinelinux.org/alpine/edge/main/ --no-ca
   nodejs \
   nodejs-npm \
   yarn \
-  curl
+  curl \
+  ttf-dejavu
